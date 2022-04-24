@@ -1,0 +1,2 @@
+permalink: /
+## Welcome to OmegaNetwork
